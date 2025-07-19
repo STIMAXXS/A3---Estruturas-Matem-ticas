@@ -2,7 +2,7 @@
 
 O objetivo desse projeto era criar um produto digital interativo, que aborde de forma criativa e acessível conteúdos da ementa da disciplina Estruturas Matemáticas (que tenha um público-alvo específico e conceitos teóricos envolvidos de Estruturas Matemáticas).
 
-Sobre isso, foi desenvolvido o projeto Tec Math motivada pelo desejo de tornar o aprendizado de matemática mais atrativo e significativo para os estudantes. Desenvolvido algumas fornas de aprendizagem que despertam o interesse pela matemática, desde o Ensino Fundamental II.
+Sobre isso, foi desenvolvido o projeto Tec Math motivada pelo desejo de tornar o aprendizado de matemática mais atrativo e significativo para os estudantes. Desenvolvido algumas formas de aprendizagem que despertam o interesse pela matemática, desde o Ensino Fundamental II.
 
 Demonstrando como o conhecimento matemático pode ser aplicado na prática, tanto na escola quanto no cotidiano e no mercado de trabalho.
 
